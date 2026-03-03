@@ -1,7 +1,7 @@
 # Spirograph Lab
 For lab 1, I chose the spirograph lab, so depending on input, the program will output an interesting spirograph.
 ## Compilation
-To compile, simply run the makefile using make; you can use make clean if you want to get rid of all pdfs and jpgs first.
+To compile, simply run the makefile using make after downloading all 5 input files and spiro.cpp; you can use make clean if you want to get rid of all pdfs and jpgs first.
 The makefile will automatically generate the 5 pdfs and jpgs corresponding to the input files provided.
 Please note C++17 is required.
 
